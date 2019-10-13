@@ -1,0 +1,7 @@
+#drop {
+  min-height: 200px;
+  width: 300px;
+  border: 5px red;
+  margin: 5px;
+  padding: 5px;
+}
